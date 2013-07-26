@@ -1,0 +1,11 @@
+{
+	"warfish": {
+		"sessid": "60b761a3e0467c8f04cfef978477067c",
+		"last": "8E557066561FE8D94A5A42849208478E8DB79AD40E2395DE53",
+		"detailsapi": "http://warfish.net/war/services/rest?_method=warfish.tables.getDetails",
+		"statsapi": "http://warfish.net/war/services/rest?_method=warfish.tables.getState",
+		"historyapi": "http://warfish.net/war/services/rest?_method=warfish.tables.getHistory"
+
+	}
+}
+
